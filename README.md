@@ -1,2 +1,2 @@
 # BASH
-This will be used for BASH scripting 
+# This will be used for BASH scripting 
